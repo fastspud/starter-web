@@ -7,3 +7,4 @@ more text here
 ## How To Contribute
  description of this section
 ## Deployment
+No Copyright
