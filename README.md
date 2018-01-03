@@ -3,7 +3,7 @@
 ## Introduction
 now i match the tutorial
 ## Purpose
-more text here
+different things are here now
 ## How To Contribute
  description of this section
  please fork this repository and then issue pull request for review
