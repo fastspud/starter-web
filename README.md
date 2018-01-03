@@ -6,5 +6,6 @@ now i match the tutorial
 more text here
 ## How To Contribute
  description of this section
+ please fork this repository and then issue pull request for review
 ## Deployment
 No Copyright
